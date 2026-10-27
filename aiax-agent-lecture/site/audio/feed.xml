@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel><title>AI 지니와 떠나는 여행</title><link>https://aiax-agent-lecture.netlify.app/</link><language>ko</language>
+<description>차에서 듣는 AI 강의. AI의 역사부터 에이전트에게 일을 맡기는 법까지, 진행자와 지니의 대화로 듣습니다.</description>
+<itunes:author>AI 이해부터 에이전트 개발까지</itunes:author><itunes:type>serial</itunes:type><itunes:explicit>false</itunes:explicit>
+<itunes:image href="https://aiax-agent-lecture.netlify.app/audio/cover.jpg"/><image><url>https://aiax-agent-lecture.netlify.app/audio/cover.jpg</url><title>AI 지니와 떠나는 여행</title><link>https://aiax-agent-lecture.netlify.app/</link></image>
+<itunes:category text="Education"/>
+<item><title>듣기 0 · 강의 안내</title><description>오늘 여행의 일곱 정거장과 길잡이 지니를 소개합니다.</description>
+<enclosure url="https://aiax-agent-lecture.netlify.app/audio/ep00.mp3" length="1254525" type="audio/mpeg"/><guid isPermaLink="false">aiax-ep00</guid>
+<pubDate>Tue, 27 Oct 2026 09:00:00 +0900</pubDate><itunes:duration>02:36</itunes:duration><itunes:episode>1</itunes:episode><itunes:episodeType>full</itunes:episodeType><itunes:explicit>false</itunes:explicit></item>
+<item><title>듣기 1 · AI의 태동과 역사</title><description>1950년 튜링의 질문부터 일하는 AI까지, 겨울과 봄을 반복한 70년.</description>
+<enclosure url="https://aiax-agent-lecture.netlify.app/audio/ep01.mp3" length="2401926" type="audio/mpeg"/><guid isPermaLink="false">aiax-ep01</guid>
+<pubDate>Tue, 27 Oct 2026 08:59:00 +0900</pubDate><itunes:duration>05:00</itunes:duration><itunes:episode>2</itunes:episode><itunes:episodeType>full</itunes:episodeType><itunes:explicit>false</itunes:explicit></item>
+<item><title>듣기 2 · AI 핵심 용어와 반짝 단어</title><description>리터러시, 프롬프트, 모델, 특이점, 그리고 반짝했다 사라진 말들.</description>
+<enclosure url="https://aiax-agent-lecture.netlify.app/audio/ep02.mp3" length="2590289" type="audio/mpeg"/><guid isPermaLink="false">aiax-ep02</guid>
+<pubDate>Tue, 27 Oct 2026 08:58:00 +0900</pubDate><itunes:duration>05:23</itunes:duration><itunes:episode>3</itunes:episode><itunes:episodeType>full</itunes:episodeType><itunes:explicit>false</itunes:explicit></item>
+<item><title>듣기 3 · 생성형 AI 모델 연표</title><description>말하는 아기에서 심부름하는 비서까지, 2022년부터 2026년 10월까지의 네 막.</description>
+<enclosure url="https://aiax-agent-lecture.netlify.app/audio/ep03.mp3" length="2374090" type="audio/mpeg"/><guid isPermaLink="false">aiax-ep03</guid>
+<pubDate>Tue, 27 Oct 2026 08:57:00 +0900</pubDate><itunes:duration>04:56</itunes:duration><itunes:episode>4</itunes:episode><itunes:episodeType>full</itunes:episodeType><itunes:explicit>false</itunes:explicit></item>
+<item><title>듣기 4 · 에이전트 환경과 지시 설계</title><description>업무 수첩, 권한, 지시 4요소, 계획 모드, 작업대 정리.</description>
+<enclosure url="https://aiax-agent-lecture.netlify.app/audio/ep04.mp3" length="2430356" type="audio/mpeg"/><guid isPermaLink="false">aiax-ep04</guid>
+<pubDate>Tue, 27 Oct 2026 08:56:00 +0900</pubDate><itunes:duration>05:03</itunes:duration><itunes:episode>5</itunes:episode><itunes:episodeType>full</itunes:episodeType><itunes:explicit>false</itunes:explicit></item>
+<item><title>듣기 5 · MCP·스킬·훅</title><description>지니의 손발, 업무 수첩, 꼭 지키는 약속.</description>
+<enclosure url="https://aiax-agent-lecture.netlify.app/audio/ep05.mp3" length="2126016" type="audio/mpeg"/><guid isPermaLink="false">aiax-ep05</guid>
+<pubDate>Tue, 27 Oct 2026 08:55:00 +0900</pubDate><itunes:duration>04:25</itunes:duration><itunes:episode>6</itunes:episode><itunes:episodeType>full</itunes:episodeType><itunes:explicit>false</itunes:explicit></item>
+<item><title>듣기 6 · 멀티에이전트와 업무 자동화</title><description>계산·작성·검토 지니로 나눠 지시 한 번에 보고서를 끝내는 법.</description>
+<enclosure url="https://aiax-agent-lecture.netlify.app/audio/ep06.mp3" length="2250070" type="audio/mpeg"/><guid isPermaLink="false">aiax-ep06</guid>
+<pubDate>Tue, 27 Oct 2026 08:54:00 +0900</pubDate><itunes:duration>04:41</itunes:duration><itunes:episode>7</itunes:episode><itunes:episodeType>full</itunes:episodeType><itunes:explicit>false</itunes:explicit></item>
+<item><title>듣기 7 · 한 장 복습</title><description>1~6강을 한 번에 되짚고, 자주 하는 오해를 바로잡습니다.</description>
+<enclosure url="https://aiax-agent-lecture.netlify.app/audio/ep07.mp3" length="1524286" type="audio/mpeg"/><guid isPermaLink="false">aiax-ep07</guid>
+<pubDate>Tue, 27 Oct 2026 08:53:00 +0900</pubDate><itunes:duration>03:10</itunes:duration><itunes:episode>8</itunes:episode><itunes:episodeType>full</itunes:episodeType><itunes:explicit>false</itunes:explicit></item>
+<item><title>듣기 8 · 활용편, 무엇을 맡길까</title><description>질문 두 개로 신호등을 정하고, 가장 쉬운 방법부터 맡기는 법.</description>
+<enclosure url="https://aiax-agent-lecture.netlify.app/audio/ep08.mp3" length="2266574" type="audio/mpeg"/><guid isPermaLink="false">aiax-ep08</guid>
+<pubDate>Tue, 27 Oct 2026 08:52:00 +0900</pubDate><itunes:duration>04:43</itunes:duration><itunes:episode>9</itunes:episode><itunes:episodeType>full</itunes:episodeType><itunes:explicit>false</itunes:explicit></item>
+</channel></rss>
