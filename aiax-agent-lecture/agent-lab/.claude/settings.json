@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": ["Read", "Bash(python:*)", "Bash(git status)"],
+    "deny": ["Bash(rm -rf:*)", "Read(./.env)"]
+  },
+  "hooks": {
+    "PreToolUse": [
+      { "matcher": "Bash",
+        "hooks": [ { "type": "command", "command": "bash .claude/hooks/protect-data.sh" } ] }
+    ],
+    "PostToolUse": [
+      { "matcher": "Edit|Write",
+        "hooks": [ { "type": "command",
+          "command": "jq -r '.tool_input.file_path' >> output/change.log" } ] }
+    ]
+  }
+}
