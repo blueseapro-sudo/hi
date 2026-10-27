@@ -29,3 +29,8 @@ md를 고친 뒤 `build.py`만 다시 돌리면 사이트에 반영됩니다. PD
 ## 주의
 
 실습에는 실제 개인정보·내부 문서를 넣지 않습니다. 모델 연표는 2026-10-15 기준이므로 강의 전에 최신 출시를 다시 확인합니다.
+
+## 배포
+
+- 사이트: https://aiax-agent-lecture.netlify.app
+- 네티파이에서 이 저장소를 연결할 때는 Base directory를 `aiax-agent-lecture`, Publish directory를 `site`로 둡니다. 빌드 명령은 없습니다.
